@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Header />
       <div class="dashboard">
-        <h1>Simple React App served by NGINX and Docker</h1>
+        <h1>Ovo je proba Fargate Pipeline</h1>
       </div>
       <Footer />
     </div>
