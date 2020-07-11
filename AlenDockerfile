@@ -1,0 +1,5 @@
+FROM node:10
+
+# copy the package.json to install dependencies
+WORKDIR /app
+COPY . /app
